@@ -29,7 +29,7 @@ Feedback on testing parameters, unit/building costing and quality of gameplay is
 
 -Tech Core building (Stats 1100M 12000E 10000Buildtime 3000HP, +100E/s production, can be built on land or sea, cannot be reclaimed), produces Tech Con (Repurposed Cortex Printer).
 
--Tech Con (Hover movement) only ability is to produce Tech Mexes (Repurposed Legion overcharged mex).
+-Tech Con (Hover movement, 55speed, 350M 6.5kE, 10kBT +20E/s)) only ability is to produce Tech Mexes (Repurposed Legion overcharged mex).
 
 -Tech Mex (Stats 750M 6500E 12000Buildtime x3M income 30E/s upkeep).
 
@@ -44,7 +44,7 @@ Feedback on testing parameters, unit/building costing and quality of gameplay is
 !welcome-message TECH CORE PATCH: Feedback to C3BO - TechCore thread on BAR discord metadiscussion. 
 -T1 Cons can produce the Tech Core building, found on the Lab menu (Repurposed Experimental Armada Airlab). 
 -Tech Core building  (1TechPoint - Stats 1kM 10kE 10kBT 3kHP, +100E/s. It can be built on land or sea and it produces Tech Con (Repurposed Cortex Printer). 
--Tech Con (HOVER movement, 55speed, 300M 6.5kE, 10kBT +20E/s) only buildoption is to produce Tech Mexes -Repurposed Legion overcharged mex-. 
+-Tech Con (HOVER movement, 55speed, 350M 6.5kE, 10kBT +20E/s) only buildoption is to produce Tech Mexes -Repurposed Legion overcharged mex-. 
 -Tech Mex (Stats 750M 8kE 12kBuildtime x3M income 30E/s upkeep). 
 -T2 labs have partially reduced costs.
 
