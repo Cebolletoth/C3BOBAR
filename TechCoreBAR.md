@@ -31,7 +31,7 @@ Feedback on testing parameters, unit/building costing and quality of gameplay is
 
 -Tech Con (Hover movement, 55speed, 350M 6.5kE, 10kBT +20E/s)) only ability is to produce Tech Mexes (Repurposed Legion overcharged mex).
 
--Tech Mex (Stats 750M 6500E 12000Buildtime x3M income 30E/s upkeep).
+-Tech Mex (Stats 750M, 6500E, 12000Buildtime, x3M income, 30E/s upkeep).
 
 -T2 labs have reduced costs as part of the cost has already been invested into building the necessary Tech Cores.
 
