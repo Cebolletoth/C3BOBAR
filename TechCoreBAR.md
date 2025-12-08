@@ -29,7 +29,7 @@ Feedback on testing parameters, unit/building costing and quality of gameplay is
 
 -Tech Core building (Stats 1100M 12000E 10000Buildtime 3000HP, +100E/s production, can be built on land or sea, cannot be reclaimed), produces Tech Con (Repurposed Cortex Printer).
 
--Tech Con (Hover movement, 55speed, 350M 6.5kE, 10kBT +20E/s)) only ability is to produce Tech Mexes (Repurposed Legion overcharged mex).
+-Tech Con (Hover movement, 55speed, 350M 6.5kE, 10kBT +20E/s) only ability is to produce Tech Mexes (Repurposed Legion overcharged mex).
 
 -Tech Mex (Stats 750M, 6500E, 12000Buildtime, x3M income, 30E/s upkeep).
 
