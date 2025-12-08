@@ -1,4 +1,4 @@
-# TechCore-Patch-BAR
+2fd1# TechCore-Patch-BAR
 Hosting site for the updated information and tweakcodes of the BAR TechCore initiative.
 
 ------
@@ -27,7 +27,7 @@ Feedback on testing parameters, unit/building costing and quality of gameplay is
 
 -T1 Cons can produce the Tech Core building, found on the Lab menu (Repurposed Experimental Armada Airlab).
 
--Tech Core building (Stats 1100M 12000E 10000Buildtime 3000HP, +100E/s production, can be built on land or sea, cannot be reclaimed), produces Tech Con (Repurposed Cortex Printer).
+-Tech Core building (Stats 1000M 10000E 10000Buildtime 3000HP, +100E/s production, can be built on land or sea, cannot be reclaimed), produces Tech Con (Repurposed Cortex Printer).
 
 -Tech Con (Hover movement, 55speed, 350M 6.5kE, 10kBT +20E/s) only ability is to produce Tech Mexes (Repurposed Legion overcharged mex).
 
