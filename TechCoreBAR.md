@@ -31,8 +31,7 @@ Team size - T2 - T3
 # Lobby settings photo reference (8v8 limits)
 <img width="743" height="566" alt="image" src="https://github.com/user-attachments/assets/0632244e-d400-4f4b-a28e-ee539302615c" />
 <img width="610" height="315" alt="image" src="https://github.com/user-attachments/assets/5a0e1026-8dda-41ee-afe9-5a9c3c419e6a" />
-<img width="191" height="128" alt="image" src="https://github.com/user-attachments/assets/9937e0d1-5d18-4a13-9bd8-ac35e810ce84" />
-<img width="191" height="128" alt="image" src="https://github.com/user-attachments/assets/03c5f9e0-2128-4457-b664-659fe7e06997" />
+<img width="238" height="420" alt="image" src="https://github.com/user-attachments/assets/a8c70a91-ee92-4f7d-b239-4a267b580597" />
 
 -----
 # LOBBY WELCOME MESSAGE
