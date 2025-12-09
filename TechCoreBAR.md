@@ -14,6 +14,15 @@ TechCores rely on the infrastructure provided by Seth's TechBlocking modoption w
 The Techcore patch tweakunits restricts the player/team's ability to build higher tech level factories by requiring them to "research" the technology first. Each TechCore building (experimental armada airlab available to all T1cons buildmenu) provides a single TechPoint that counts towards permanently unlocking the next tier level as long as the building is alive. Losing unlocked tech tiers is not possible despite losing techcores after that point.
 - The research thresholds can be set by using the control panel of the Techblocking modoption.
 - Recommended initial testing parameters: Set to points per team, 50% (roundedup) of TeamSize for T2 and 100% of Team Size for T3.
+Team size - T2 - T3
+1         - 1  - 1
+2         - 1  - 2
+3         - 2  - 3
+4         - 2  - 4
+5         - 3  - 5
+6         - 3  - 6
+7         - 4  - 7
+8         - 4  - 8
 
 Feedback on testing parameters, unit/building costing and quality of gameplay is highly appreciated to allow us to fine tune the balance across all game modes. Please also include replays/videos links whenever possible.
 
