@@ -1,6 +1,6 @@
 # C3BO Balance Patch
 
-Hosting site for high-level battletested Beyond All Reason balance suggestions to improve gameplay based on real ingame cost-performance per unit category.
+Hosting site for 5O OS battletested Beyond All Reason balance suggestions to improve gameplay based on real ingame cost-performance per unit category.
 
 -------
 
