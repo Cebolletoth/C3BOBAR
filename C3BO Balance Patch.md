@@ -137,7 +137,7 @@ Hornet (armblade) -
 Paralyzer (armemp) - 
 	metalcost = 2000 (1600)
 	areaofeffect 250 (312) 
-	paraltzetime (25) 
+	paraltzetime 25(35) 
 	range 3100 (3650) 
 	stockpiletime 60 (65) 
 	weaponacceleration 250 (150) 
