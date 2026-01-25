@@ -17,7 +17,7 @@ All the recommended changes together should:
 - Ensure that units have a degree of weakness to something and a reasonable performance per category.
 - Encourage the use of miscellaneous buildings that see no use and enrich the game variety of strategy.
 ---------
-- - Additional optional compatibility option with TechCore patch. Please see TechCore setup instructions on my other github project.
+- - Additional compatibility option with TechCore patch. Please see TechCore setup instructions on my other github project.
 ---------
 ------
 # Welcome message
