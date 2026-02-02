@@ -19,9 +19,15 @@ All the recommended changes together should:
 - - Additional compatibility option with TechCore patch, tweaks below. Please see TechCore setup instructions on my other github project. https://github.com/Cebolletoth/C3BOBAR/blob/main/TechCoreBAR.md
 ---------
 ------
-# Welcome message
+# Welcome message C3BO PATCH
 ```
 !welcome-message https://github.com/Cebolletoth/TechCore-Patch-BAR    Balance patch made by C3BO, see changes in link.
+
+```
+
+# Welcome message C3BOTECHCORE
+```
+!welcome-message Techcore instructions on discord link. Please leave some feedback after the game. https://discord.com/channels/549281623154229250/1447223310319489024/1467668620204310643         C3BO patch changelog on github https://github.com/Cebolletoth/TechCore-Patch-BAR
 
 ```
 ------
