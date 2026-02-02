@@ -58,7 +58,7 @@ All the recommended changes together should:
 IF USING TECHCORE - 
 - PLEASE USE THE BELOW ALTERNATIVE 4TH TECHCORE COMPATIBILITY TWEAK INSTEAD OF THE STANDARD 4TH TWEAK ABOVE and ADDITIONAL 5th.
 - PLEASE USE THE TECHBLOCKING PASSIVE XP REMOVAL TWEAKDEF BELOW THE ALTERNATIVE 4TH and 5th TWEAKS.
-- SET THE TECHBLOCKING THRESHOLDS ACCORDING TO THE INSTRUCTIONS GIVEN ON THE TECHCORE PROJECT.
+- SET THE TECHBLOCKING THRESHOLDS ACCORDING TO THE INSTRUCTIONS GIVEN ON THE TECHCORE PROJECT. https://github.com/Cebolletoth/C3BOBAR/blob/main/TechCoreBAR.md
 
 - - TECHCORE Instructions: https://discord.com/channels/549281623154229250/1447223310319489024/1467668620204310643
 The faction's scavenger t3 shield building acts as the new TechCore. Unfortunately the script of the building does not allow for the creation of units so in order to achieve that at the moment you need to build the T2conturret. You can find both on the lab section of the T1constructors. Build the Shield-Core first, then the t2conturret next to it. Build the printer with the T2conturret if you want to use the t1.5 mexes available to all factions with x3 metal.
