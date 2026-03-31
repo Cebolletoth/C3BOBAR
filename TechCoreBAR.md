@@ -67,7 +67,15 @@ Please also include replays/videos links whenever possible.
 -Legion faction changes: legmex gives 90%M and +3E/s.
 
 -----
+# ENABLE TECH BLOCK, SET THRESHOLDS
 
+```
+!bSet tech_blocking 1
+!bSet tech_blocking_per_team 0
+!bSet t2_tech_threshold 4
+!bSet t3_tech_threshold 8
+```
+-----
 # PASSIVE XP REMOVAL TWEAK
 
 ```
