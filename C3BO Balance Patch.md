@@ -123,7 +123,6 @@ Hound (armfido) -
 	accuracy 800 (N) 
 	predictboost 0.75 (N) 
 	weaponvelocity 360 (340)
-
 Welder (armzeus) - speed 50 (47.4) default 25 (22) energypershot 20 (10)
 Gunslinger (armmav) - 
 	metalcost 700 (650) 
@@ -211,7 +210,7 @@ Termite (cortermite) -
 	energycost 7300 (8100) 
 	buildtime 12000 (13500) 
 	energypershot 20 (60)
-Sumo (corcan) - Speed 39 (37.5)
+Sumo (corcan) - Speed 39 (37.5) energypershot 35 (45)
 Mammoth (corsumo) - 
 	metalcost 2050 (2200) 
 	energycost 30000 (35000) 
@@ -257,12 +256,12 @@ Commander (legcom) -
 	disintegrator DGun - range 260 (250) weaponvelocity 310 (300)
 	[torpedo] range 265 (300) tracks true (false) default 125 (250)
 	[aamissile] range 320 (450) vtol 200 (150)
-Goblin (leggog) - 
-	speed 76 (75) 
-	health 210 (200) 
-	impulsefactor 0 () 
+Goblin (leggob) - 
+	health 210 (200)
+	speed 74 (75) 
+	impulsefactor 0 (0) 
 	range 261 (261) 
-	default 13 (12) 
+	default 14 (12) 
 	los 510 (500)
 Satyr (leglob) - range 390 (400) speed 49 (51) energycost 600 (400) health 575 (550)
 Ballista (legbal) - 
@@ -342,10 +341,11 @@ Blindfold (legcib) - Conversion from junobomber into airscout [radar added]
 	radardistance 1140 (0)
 Pharos (leghlt) - 
 	metalcost 90 (70) 
+	energycost 650 (550)
 	energypershot 20 (0) 
 	default 210 (200) 
 	beamtime 0.2 (0.45) 
-	edgeeffectiveness 0.75 (0.15) 
+	edgeeffectiveness 0.50 (0.15) 
 	range 435 (430)
 	explodeas metalmaker (genericmediumbuilding)
 Cacophony (legmg) - explodeas metalmaker (genericmediumbuilding)
@@ -354,7 +354,11 @@ Rhapsis mid-aa(legrhapsis) energycost 3700 (6500) health 200 (1900)
 
 T2 leg
 Snapper (legsnapper) - metalcost 90 (65) buildtime 7500 (7900)
-Telchine (legamph) - sightdistance 500 (450) sonardistance 450 (700) [depthcharge]range 425 (600)
+Telchine (legamph) - 
+	sightdistance 500 (450) 
+	sonardistance 450 (700) 
+	[heatray]edgeeffectiveness 0.5 (0.15)
+	[depthcharge]range 425 (600)
 Thanatos (leghrk) - metalcost 675 (750) energycost 8500 (9000) buildtime 8500 (9000)
 Arquebus (legsrail) - vtol 250 (750) impulsefactor 0.7 (1) overpenetrate false (true)
 Decoycommander (legdecom) -  
@@ -495,6 +499,7 @@ TECHCORE SECTION
 		metalcost = 600,
 		buildtime = 12000,
 		energyupkeep = 30,
+
 
 
 
