@@ -102,9 +102,9 @@ Janus (armjanus) - speed 52 (54) weaponacceleration 70 (80) weaponvelocity 210 (
 Whistler (armsam) - speed 50 (55) aa weapontimer 4 (5) vto 110 (160)
 Groundhog (armmlv) -  
 	mass 500 (Able to be light transported) 
-	metalcost 110 (57) 
-	energycost 1200 (1100)
-	speed 72 (75)
+	metalcost 120 (57) 
+	energycost 1500 (1100)
+	speed 70 (75)
 	workertime 50 (40)
 	canreclaim = true (false)
 	canrepair = true (true)
@@ -204,9 +204,9 @@ Pounder (corlevlr) - speed 39 (40.5) range 310 (315) noselfdamage false (true)
 Lasher (cormist) - speed 48(52) aa weapontimer 4 (5) vtol 110 (120)
 Trapper (cormvl) -
 	mass 500 (Able to be light transported) 
-	metalcost 110 (57) 
-	energycost 1200 (1100)
-	speed 72 (75)
+	metalcost 120 (57) 
+	energycost 1500 (1100)
+	speed 70 (75)
 	workertime 50 (40)
 	canreclaim = true (false)
 	canrepair = true (true)
@@ -344,9 +344,9 @@ Lance (legrail) -
 	default 325 (200)
 Sapper (legmvl) -
 	mass 500 (Able to be light transported) 
-	metalcost 110 (57) 
-	energycost 1200 (1100)
-	speed 72 (75)
+	metalcost 120 (57) 
+	energycost 1500 (1100)
+	speed 70 (75)
 	workertime 50 (40)
 	canreclaim = true (false)
 	canrepair = true (true)
@@ -527,6 +527,7 @@ TECHCORE SECTION
 		metalcost = 600,
 		buildtime = 12000,
 		energyupkeep = 30,
+
 
 
 
