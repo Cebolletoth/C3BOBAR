@@ -425,6 +425,7 @@ Noctua (legfig) - [radar removed]
 	range 620 (600)
 	maxangledif 15 (20)
 	turnradius 54 (48)
+Martyr (legkam) - areaofeffect 220 (200) range 520 (500) default 460 (440) commanders 460 (220)
 Alpheus (legah) - 
 	metalcost 200 (210)
 	energycost 3400 (4300)
@@ -550,6 +551,7 @@ Bot constructors (armck corck legck) - speed 42 40.5 42 (36 34.5 39)
 Advanced bot constructors (armack corack legack) - speed 40 (33)
 Standard costs for same factory. Lower lab health.
 T2 and T3 labs land labs - maxslope 15 (10)
+T1 labs workertime 100 (150)
 T1 Botlabs health - 1800 (2900)
 T1 Vehlabs health - 2000 (3000)
 T1 Shiplabs health - 3000 (4100-4300)
@@ -570,6 +572,11 @@ Asolars (armadvsol coradvsol) - energymake 80 (75) - (legadvsol) - energycost 50
 Arm solar (armadvsol) - metalcost 355 (350) energycost 4600 (5000)
 Legion metal extractor (legmex) - extractsmetal 0.0009 (0.008) energyupkeep -3 (-7)
 Legion overcharged mex buildoption has been removed from all constructors.
+Fusion reactors have been restored to pre S3 patch Metalcosts and Eproduction (different from S2 - cost more E and BP and lower HP as per S3).
+Arm fusion - metalcost 4300 (3350) Eproduction 1000 (750)
+Arm cloaked fusion - metalcost 4700 (3650) Eproduction 1050 (750) Cloackcost 50 (75)
+Cortex fusion - metalcost 4500 (3600) Eproduction 1100 (850)
+Legion fusion - metalcost 4900 (4000) Eproduction 1200 (950)
 
 Utility
 T1 walls (armdrag cordrag legdrag) - buildtime 200 (255) health 2500 (2800)
@@ -604,6 +611,7 @@ TECHCORE SECTION
 		metalcost = 600,
 		buildtime = 12000,
 		energyupkeep = 30,
+
 
 
 
