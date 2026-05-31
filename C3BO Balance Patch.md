@@ -103,7 +103,7 @@ Rocketeer (armrock) - speed 49 (50.7) startvelocity 175 (190) weaponacceleration
 Centurion (armwar) - range 320 (330)
 Crossbow (armjeth) - metalcost 110 (120)
 Rover (armfav) - metalcost 28 (31) speed 155 (168)
-Blitz (armflash) - health 800 (750)  speed 95 (99) energycost 1200 (900) weaponvelocity 600 (500), spray angle 1000 (1180)
+Blitz (armflash) - health 750 (730)  speed 94 (99) energycost 1200 (900) weaponvelocity 600 (500), spray angle 1000 (1180)
 Stout (armstump) - speed 72 (76) energycost 2250 (2000) health 1700 (1780) buildtime 2900 (3100)
 Janus (armjanus) - speed 52 (54) weaponacceleration 70 (80) weaponvelocity 210 (230) noselfdamage false (true)
 Whistler (armsam) - speed 50 (55) aa weapontimer 4 (5) vto 110 (160)
@@ -631,6 +631,7 @@ Twilight (armamex) - metalcost 180 (200) energycost 1350 (1500) explodeas medium
 Estorage (armestor corestor legestor) - health 1200 (1890-2000)
 Asolars (armadvsol coradvsol) - energymake 80 (75) - (legadvsol) - energycost 5000 (4200) health 1500 (800)
 Arm solar (armadvsol) - metalcost 355 (350) energycost 4600 (5000)
+T1 veh cons Speed 51 (arm-cor-leg)
 
 Economy T2
 Armada T2cons New Buildoption - Shockwave (death doesn't cause emp area)
@@ -680,6 +681,7 @@ TECHCORE SECTION
 		metalcost = 550,
 		buildtime = 10000,
 		energyupkeep = 30,
+
 
 
 
