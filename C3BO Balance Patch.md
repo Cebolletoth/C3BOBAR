@@ -721,7 +721,7 @@ TechCores rely on the infrastructure provided by Seth's TechBlocking modoption w
 - This requires the use of a tweakdef (code provided) to supress the original passive lab xp generation from the modoption.
 - The use of extra experimental game assets requires enabling the *"Force Load All Units"* tickbox under the Advanced lobby options - Cheat section.
 
-The TechCore patch tweakunits restricts the player/team's ability to build higher tech level factories by requiring them to "research" the technology first. Each TechCore building (experimental armada airlab available to all T1cons buildmenu) provides a single TechPoint that counts towards permanently unlocking the next tier level as long as the building is alive. Losing unlocked tech tiers is not possible despite losing techcores after that point.
+The TechCore patch tweakunits restricts the player/team's ability to build higher tech level factories by requiring them to "research" the technology first. Each TechCore building (Shield building available to all T1cons buildmenu) provides a single TechPoint that counts towards permanently unlocking the next tier level as long as the building is alive. Losing unlocked tech tiers is not possible despite losing techcores after that point.
 - The research thresholds can be set by using the control panel of the Techblocking modoption.
 - Recommended initial testing parameters: Set to **points per team (by unticking the per player box), 100% of TeamSize for T2 and 150% (rounded down) of Team Size for T3.
 ```
@@ -736,6 +736,22 @@ Team size - T2 - T3
 8         - 8  - 12
 ```
 -----
+
+*** Requires "Force Load All Units" ***
+*** Requires Techblocking modoption with Points per Team (not per player) ***
+*** Requires Tweakdef passive Techblocking XP removal ***
+
+-T1 Cons can produce the Tech Core building, found on the Lab menu (Repurposed Scavemger shield assets).
+
+-Tech Core building (Stats 1000M 9000E 10000Buildtime 3000HP, +100E/s production. The TechCore can be built on land or sea, cannot be reclaimed), produces Tech Con (Repurposed Cortex Printer).
+
+- Due to script issues the Shield generator cannot place the Printer blueprint, therefore --> When you finish building the shield generator, build the T2conturret 1metalcost next to the shield generator, that will allow placement of the Printer blueprint if desired.
+
+-Tech Constructor - Printer (Hover movement, 55speed, 350M 6.5kE, 10kBT 200BP +20E/s) only ability is to produce Tech Mexes (Repurposed Legion overcharged mex).
+
+-Tech Mex (Stats 600M, 6000E, 10000Buildtime, x3M income, 30E/s upkeep).
+
+-T2 labs have reduced costs as part of the cost has already been invested into building the necessary Tech Cores.
 
 <img width="497" height="380" alt="image" src="https://github.com/user-attachments/assets/143cdbd9-6849-43fe-a6dc-ed8b73be6fe6" />
 
