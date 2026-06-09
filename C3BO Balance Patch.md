@@ -710,6 +710,8 @@ TECHCORE SECTION
 
 ```
 TECHCORE INSTRUCTIONS
+<img width="497" height="380" alt="image" src="https://github.com/user-attachments/assets/143cdbd9-6849-43fe-a6dc-ed8b73be6fe6" />
+
 
 <img width="508" height="434" alt="image" src="https://github.com/user-attachments/assets/f54659cc-969b-4112-8e5d-db5ee533bf17" />
 
