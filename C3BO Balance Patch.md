@@ -1,4 +1,4 @@
-# C3BO Balance Patch
+# C3BO Balance Patch 1.8.5
 
 Hosting site for 5O OS battletested Beyond All Reason balance suggestions to improve gameplay based on real ingame cost-performance per unit category.
 
