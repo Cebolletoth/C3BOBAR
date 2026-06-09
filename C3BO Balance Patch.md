@@ -709,9 +709,35 @@ TECHCORE SECTION
 
 
 ```
-TECHCORE INSTRUCTIONS
-<img width="497" height="380" alt="image" src="https://github.com/user-attachments/assets/143cdbd9-6849-43fe-a6dc-ed8b73be6fe6" />
+------
 
+# README - TECH CORE PATCH
+ 
+Made by C3BO in the spirit of MeowCatMeow’s economic system overhaul.
+Feedback to BAR Discord thread
+https://discord.com/channels/549281623154229250/1447223310319489024
+
+TechCores rely on the infrastructure provided by Seth's TechBlocking modoption which he kindly allowed us to use for this public initiative.
+- This requires the use of a tweakdef (code provided) to supress the original passive lab xp generation from the modoption.
+- The use of extra experimental game assets requires enabling the *"Force Load All Units"* tickbox under the Advanced lobby options - Cheat section.
+
+The TechCore patch tweakunits restricts the player/team's ability to build higher tech level factories by requiring them to "research" the technology first. Each TechCore building (experimental armada airlab available to all T1cons buildmenu) provides a single TechPoint that counts towards permanently unlocking the next tier level as long as the building is alive. Losing unlocked tech tiers is not possible despite losing techcores after that point.
+- The research thresholds can be set by using the control panel of the Techblocking modoption.
+- Recommended initial testing parameters: Set to **points per team (by unticking the per player box), 100% of TeamSize for T2 and 150% (rounded down) of Team Size for T3.
+```
+Team size - T2 - T3
+1         - 1  - 1
+2         - 2  - 3
+3         - 3  - 4
+4         - 4  - 6
+5         - 5  - 7
+6         - 6  - 9
+7         - 7  - 10
+8         - 8  - 12
+```
+-----
+
+<img width="497" height="380" alt="image" src="https://github.com/user-attachments/assets/143cdbd9-6849-43fe-a6dc-ed8b73be6fe6" />
 
 <img width="508" height="434" alt="image" src="https://github.com/user-attachments/assets/f54659cc-969b-4112-8e5d-db5ee533bf17" />
 
