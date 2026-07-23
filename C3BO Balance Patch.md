@@ -1,4 +1,4 @@
-# C3BO Balance Patch 1.8.8
+# C3BO Balance Patch 1.9.0
 
 Hosting site for 5O OS battletested Beyond All Reason balance suggestions to improve gameplay based on real ingame cost-performance per unit category.
 
@@ -162,7 +162,7 @@ Blink (armpeep) Finch (corfink)
 	turnradius 55 (64)
 	stealth true (false)
 Falcon (armfig) - metalcost 68 (73) energycost 2600 (2900) buildtime 3000 (3330)
-Banshee (armkam) - metalcost 120 (135) speed 195 (184.8) buildtime 3800 (5050) sprayangle 900 (1000) weaponvelocity 1000 (800) default 10 (9)
+Banshee (armkam) - metalcost 125 (135) speed 195 (184.8) buildtime 4250 (5050) sprayangle 900 (1000) weaponvelocity 1000 (800) default 10 (9)
 Stormbringer (armthund) - 
 	health 540 (670)
 	metalcost 135 (145)
@@ -209,7 +209,7 @@ Hound (armfido) -
 Welder (armzeus) - speed 50 (47.4) default 25 (22) energypershot 20 (10)
 Gunslinger (armmav) - 
 	metalcost 700 (650) 
-	buildtime 14000 (1700) 
+	buildtime 14000 (17000) 
 	health 1800 (1560) 
 	predictboost 0.4 (0.3) 
 	reloadtime 0.85 (1) 
@@ -243,7 +243,7 @@ Hornet (armblade) -
 	energycost = 18000, (22000)
 	maxacc = 0.70, (0.6)
 	maxdec = 0.50, (0.35)
-	metalcost = 1050, (1250)
+	metalcost = 1100, (1250)
 	speed = 240, (204)
 	turnrate = 850 (720)
 	areaofeffect = 60, (32)
@@ -254,6 +254,7 @@ Hornet (armblade) -
 	weaponacceleration = 600, (440)
 	weaponvelocity = 1200, (1000)
 	default = 300,
+Liche (armliche) - default 5350 (5625)
 Paralyzer (armemp) - 
 	metalcost = 2000 (1600)
 	areaofeffect 250 (312) 
@@ -279,14 +280,14 @@ Titan (armbanth) -
 
 T1 cor
 Commander (corcom) - disintegrator DGun - range 260 (262) weaponvelocity 310 (300) turnrate 1148 (1133)
-Grunt (corak) - range 210 (215) speed 80 (81) los 510 (500)
+Grunt (corak) - range 210 (215) speed 80 (81) los 520 (520)
 Thug (corthud) - health 1150 (1100)
 Aggravator (corstorm) - speed 47 (47.7) speed 49 (50.7) startvelocity 175 (190) weaponacceleration 100 (120) weaponvelocity 175 (190)
 Trasher (corcrash) - metalcost 110 (120)
 Rascal (corfav) - metalcost 24 (26) buildtime 1100 (1150) speed 146 (153)
 Incisor (corgator) - energycost 1300 (1040) range 220 (230) default 70 (75) speed 84 (85.5)
 Brute (corraid) - speed 69 (73) health 1800 (1970) buildtime 3300 (3500)
-Pounder (corlevlr) - speed 39 (40.5) range 310 (315) noselfdamage false (true)
+Pounder (corlevlr) - health 1500 (1400) speed 39 (40.5) range 310 (315) noselfdamage false (true)
 Lasher (cormist) - speed 48(52) aa weapontimer 4 (5) vtol 110 (120)
 Trapper (cormvl) -
 	mass 500 (Able to be light transported) 
@@ -348,7 +349,7 @@ Termite (cortermite) -
 	energycost 7300 (8100) 
 	buildtime 12000 (13500) 
 	energypershot 20 (60)
-Sumo (corcan) - Speed 39 (37.5) energypershot 35 (45)
+Sumo (corcan) - Speed 39 (37.5) energypershot 30 (45) health 6100 (6500)
 Mammoth (corsumo) - 
 	metalcost 2050 (2200) 
 	energycost 30000 (35000) 
@@ -418,8 +419,8 @@ Goblin (leggob) -
 	speed 74 (75) 
 	impulsefactor 0 (0) 
 	range 261 (261) 
-	default 12 (12) 
-	los 510 (500)
+	default 12.5 (12) 
+	los 520 (500)
 Satyr (leglob) - range 390 (400) speed 49 (51) energycost 600 (400) health 575 (550)
 Ballista (legbal) - 
 	buildtime 2600 (2400)
@@ -513,6 +514,7 @@ Noctua (legfig) - [radar removed]
 	range 620 (600)
 	maxangledif 15 (20)
 	turnradius 54 (48)
+Mosquito (legmos) - health 410 (450)
 Martyr (legkam) - areaofeffect 220 (200) range 520 (500) default 460 (440) commanders 460 (220)
 Alpheus (legah) - 
 	metalcost 200 (210)
@@ -597,6 +599,7 @@ Phoenix (legphoenix) -
 	energycost 35000 (25000) 
 	buildtime 52000 (46600) 
 	health 2200 (2000)
+Tyrannus (legfort) - metalcost 5300 (5600) energycost 74000 (79000) buildtime 110000 (119750)
 Perdition (legperdition) - default 1600 (1200) commander 1600 (700) areaonhitdamage 200 (120)
 Supernova (legsilo) - commanders 11500 (2500)
 
@@ -670,6 +673,7 @@ Scylla (leganavybattleship)  - sub 0 (300)
 
 Labs and cons
 Bot constructors (armck corck legck) - speed 42 40.5 42 (36 34.5 39)
+Air constructors (armca corca legca) - energycost 2600-2800 (3000-3200) buildtime 6200-6500 (7200-7550)
 Advanced bot constructors (armack corack legack) - speed 40 (33)
 Standard costs for same factory. Lower lab health.
 T2 and T3 labs land labs - maxslope 15 (10)
@@ -752,17 +756,17 @@ TECHCORE SECTION
 		energyupkeep = -100, (energy production +100 whilst On)
 		builddistance = 120,
  		workertime = 100,
-		buildtime = 15000,
-		energycost = 10000,
-		energystorage = 1000,
+		buildtime = 12000,
+		energycost = 9000,
+		energystorage = 900,
 		explodeas = "fusionExplosion",
 		health = 2000,
 		metalcost = 1000,
 		shield_power = 200,
 		powerregenenergy = 200, (costs to repair shield -200)
 
-- T1.5 mex 	energycost = 5500,
-		metalcost = 550,
+- T1.5 mex 	energycost = 4500,
+		metalcost = 450,
 		buildtime = 10000,
 		energyupkeep = 30,
 
