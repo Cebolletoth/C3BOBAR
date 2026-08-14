@@ -16,6 +16,7 @@ All the recommended changes together should:
 - Encourage unused units to a reasonable cost/performance expected of the unit category.
 - Ensure that units have a degree of weakness to something and a reasonable performance per category.
 - Encourage the use of miscellaneous buildings that see no use and enrich the game variety of strategy.
+- Units can receive damage from aa sources whilst being transported.
 ---------
 - - Additional compatibility option with TechCore patch, tweaks below. Please see TechCore setup instructions on my other github project. https://github.com/Cebolletoth/C3BOBAR/blob/main/TechCoreBAR.md
 ---------
