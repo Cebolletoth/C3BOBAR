@@ -27,7 +27,7 @@ All the recommended changes together should:
 # BALANCE TWEAKUNITS AND TWEAKDEFS (Building Armordef)
 AUTOLOADER 1.9.7
 ```
-!welcome-message C3BOPATCH v1.9.7 Changelog link - https://github.com/Cebolletoth/TechCore-Patch-BAR   Feedback link - https://discord.com/channels/549281623154229250/1448671751662997536
+!welcome-message C3BOPATCH v1.9.7 Changelog link - https://github.com/Cebolletoth/C3BOBAR/edit/main/C3BO%20Balance%20Patch.md   Feedback link - https://discord.com/channels/549281623154229250/1448671751662997536
 !bSet experimentallegionfaction 1
 !bSet ranked_game 0
 !bSet allowpausegameplay 0
