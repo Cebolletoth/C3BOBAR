@@ -75,7 +75,7 @@ The current lack of official dev support limits the access of a number of the an
 ------
 # RESOURCES AND SETUP HELP 
 ------
-# AUTOLOADER
+# AUTOLOADER (Updated 21/8/2026)
 Copy and paste this into the lobby chat to instantly load all the tweaks and lobby settings for testing.
 ------
 
