@@ -6,11 +6,11 @@
 
 Why: 
 - Techcore is a fully complete fix to all of BAR's coop problems in any and all forms.
-- It helps lightly push back the T2 powerspike timewise to allow T1 stage to be just a bit more meaningful and allow more variety of gameplay.
-- It reduces the teching cost in 1v1s
+- It helps lightly push back the T2 powerspike timewise in team games and allows T1 stage to be just a bit more meaningful, along with more variety of gameplay.
+- It reduces the teching cost in 1v1s making it more affordable and therefore increasing the variety of gameplay.
 
 How it does it: 
-- By introducing Techcore buildings as a requirement to Increasing and Maintaining the team's techlevel.
+- By introducing Techcore buildings as a requirement to Increasing and Maintaining the team's techlevel. Losing techcores below the tech threshold will cause losing the ability to place new blueprints.
 - This allows decoupling the teching cost from the T2 lab itself. This is beneficial as the T2 lab costs can be reduced through this approach.
 
 The changes:
@@ -28,13 +28,14 @@ Team size - T2 - T3    THE WIDGET WILL REMIND YOU DURING TESTING - USE IT
 7         - 7  - 10
 8         - 8  - 12
 ```
-- 
+- T1.5 constructor with hovercraft movement
+- T1.5 metal extractors with x3 metal income
 
 ------
 # RESOURCES AND SETUP HELP 
 ------
 # AUTOLOADER
-Copy and paste this into the lobby chat to load all the tweaks and lobby settings for testing.
+Copy and paste this into the lobby chat to instantly load all the tweaks and lobby settings for testing.
 ------
 
 ```
