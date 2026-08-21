@@ -6,7 +6,7 @@
 
 *The TEHCORE mode is fully tested and finished on Attean's dev branch and only needs to be given greenlight in order to be accessible ingame with the proper setup from the lobby itself. Public support in the Coop is a problem thread is required in order to help convince the responsible people in power. https://discord.com/channels/549281623154229250/1337861239526785064*
 
-Feedback to: https://discord.com/channels/549281623154229250/1447223310319489024
+Replays and Gameplay feedback to: https://discord.com/channels/549281623154229250/1447223310319489024
 
 What and why: 
 - Techcore is a fully complete fix to all of BAR's coop problems in any and all forms.
