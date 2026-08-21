@@ -11,7 +11,7 @@ Replays and Gameplay feedback to: https://discord.com/channels/54928162315422925
 What and why: 
 - Techcore is a fully complete fix to all of BAR's coop problems in any and all forms.
 - It helps lightly push back the T2 powerspike timewise in team games and allows T1 stage to be just a bit more meaningful, along with more variety of gameplay.
-- It reduces the teching cost in 1v1s making it more affordable and therefore increasing the variety of gameplay.
+- It reduces the teching cost per capita, making it more affordable and therefore increasing the variety of gameplay.
 
 How: 
 - By introducing Techcore buildings as a requirement to Increasing and Maintaining the team's techlevel. Losing techcores below the tech threshold will cause losing the ability to place new blueprints.
