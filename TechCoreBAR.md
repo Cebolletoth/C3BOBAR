@@ -20,7 +20,7 @@ How:
 The changes:
 - There is No sharing during T1 tech. Once T2 tech is available with enough cores alive you can share constructors (T1, T1.5 and basic T2).
 - You only have access to T2 and T3 blueprints as long as your team have enough Techcores alive. Each faction has its own techcore model that you can find in the T1constructor build menu (lab section). [THIS REQUIRES OFFICIAL SUPPORT FROM DEVS, DURING TESTING YOU MUST REMEMBER THE RULES AND GAMEPLAY CHANGES]
-- - *Due to model script issues you have to make a T2constructionturret that costs 1metal next to your completed techcore, this allows creation of T1.5 constructor blueprint if you place it next to it.*
+- - *Due to lack of official dev support you have to make a T2constructionturret that costs 1metal next to your completed techcore, this allows creation of T1.5 constructor blueprint if you place it next to it.*
 
 ```
 Team size - T2 - T3    THE WIDGET WILL REMIND YOU DURING TESTING - USE IT
