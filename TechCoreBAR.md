@@ -80,7 +80,7 @@ Copy and paste this into the lobby chat to instantly load all the tweaks and lob
 ------
 
 ```
-$welcome-message Techcore testing lobby, find instructions and send replays to https://discord.com/channels/549281623154229250/1447223310319489024/1539656204316450937
+$welcome-message Techcore testing lobby: PLEASE SEE INSTRUCTIONS https://github.com/Cebolletoth/C3BOBAR/blob/main/TechCoreBAR.md
 !bSet ranked_game 0
 !bSet allowpausegameplay 0
 !bSet allowunitcontrolwidgets 0
