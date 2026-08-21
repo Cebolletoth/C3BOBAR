@@ -2,7 +2,7 @@
 
 
 ------
-# README - TECH CORE PATCH
+# README
 
 Why: 
 - Techcore is a fully complete fix to all of BAR's coop problems in any and all forms.
