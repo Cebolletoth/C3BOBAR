@@ -14,6 +14,7 @@ How it does it:
 - This allows decoupling the teching cost from the T2 lab itself. This is beneficial as the T2 lab costs can be reduced through this approach.
 
 The changes:
+- There is No sharing during T1 tech. Once T2 tech is available with enough cores alive you can share constructors (T1, T1.5 and basic T2).
 - You only have access to T2 and T3 blueprints as long as your team have enough Techcores alive. Each faction has its own techcore model that you can find in the T1constructor build menu (lab section). [THIS REQUIRES OFFICIAL SUPPORT FROM DEVS, DURING TESTING YOU MUST REMEMBER THE RULES AND GAMEPLAY CHANGES]
 - *Due to model script issues you have to make a T2constructionturret that costs 1metal next to your completed techcore, this allows creation of T1.5 constructor blueprint if you place it next to it*
 
@@ -30,6 +31,39 @@ Team size - T2 - T3    THE WIDGET WILL REMIND YOU DURING TESTING - USE IT
 ```
 - T1.5 constructor with hovercraft movement
 - T1.5 metal extractors with x3 metal income
+------
+
+# NEW STATS
+- Techcore: 900M, 9000E, 12000BP, 2000health, +100E/s, fusionexplosion, land and sea surface placement.
+- Techcon: 325M, 5000E, 10000BP, 900health, +20E/s, 200workertime, Hover movement. 
+- Techmex: 400M, 4000E, 8000BP, 1600health, -30E/s, x3 metal, land and sea floor placement.
+- Legion changes: Basic mex 0.9metal and +3 energy. Overcharged mex removed.
+
+------
+# LIMITATIONS
+
+The current lack of official dev support limits the access of a number of the anticoop measures:
+- Techblocking - I have no way of creating dynamic restrictions on blueprint availability.
+- Dynamic taxes - I cant have access to different tax levels changing with the team's techlevel.
+- Dynamic sharing restictions - I don't have access to 
+
+------
+
+# GAMEPLAY BENEFITS
+
+- No space left for coop.
+- Maxed out player agency.
+- More meaningful T1 stage in team games.
+- More representation of T2 in 1v1 games.
+- Easier and more smooth teching for lower skill players as they cannot commit to a full T2 building too early in the game before growing their economy in both team game and 1v1.
+- Supporting the E production of the player towards teching efforts.
+- Bridging the metal economy from T1 into T2.
+- Decreasing the life/death problems of winning/losing a reclaim field.
+- Lower cost T2 labs making switches easier and increasing the possibility of having multiple T2 labs concurrently.
+- Adding the techcore building as a target incentivises raiding to take the enemy cores down in order to delay their teching effort.
+
+------
+
 
 ------
 # RESOURCES AND SETUP HELP 
@@ -53,20 +87,15 @@ $welcome-message Techcore testing lobby, find instructions and send replays to h
 
 ------
 
------
+
 
 # WIDGET: Techcore testing assistant
 Please download this widget and put it inside your widget folder to assist you during testing.
-- Download link:
-External - https://limewire.com/d/5k41v#zLDg32Dku0
-BAR Discord - https://discord.com/channels/549281623154229250/1539655381721161799
+Download links:
 
+- External - https://limewire.com/d/5k41v#zLDg32Dku0
+- BAR Discord - https://discord.com/channels/549281623154229250/1539655381721161799
 
------
-
------
-
-------
 
 
 
