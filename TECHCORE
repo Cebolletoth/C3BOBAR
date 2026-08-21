@@ -7,6 +7,7 @@ Copy and paste this into the lobby chat to load all the tweaks and lobby setting
 ------
 
 ```
+
 $welcome-message Techcore testing lobby, find instructions and send replays to https://discord.com/channels/549281623154229250/1447223310319489024/1539656204316450937 (Legion no Omex, all factions have T1.5techmex)
 !bSet ranked_game 0
 !bSet allowpausegameplay 0
