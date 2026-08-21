@@ -11,7 +11,7 @@ Why:
 
 How it does it: 
 - By introducing Techcore buildings as a requirement to Increasing and Maintaining the team's techlevel. Losing techcores below the tech threshold will cause losing the ability to place new blueprints.
-- This allows decoupling the teching cost from the T2 lab itself. This is beneficial as the T2 lab costs can be reduced through this approach.
+- This allows decoupling the teching cost from the T2 lab itself.
 
 The changes:
 - There is No sharing during T1 tech. Once T2 tech is available with enough cores alive you can share constructors (T1, T1.5 and basic T2).
@@ -59,7 +59,8 @@ The current lack of official dev support limits the access of a number of the an
 - Supporting the E production of the player towards teching efforts.
 - Bridging the metal economy from T1 into T2.
 - Decreasing the life/death problems of winning/losing a reclaim field.
-- Lower cost T2 labs making switches easier and increasing the possibility of having multiple T2 labs concurrently.
+- Lower cost T2 labs making switches between T2 labs easier and increasing the possibility of having multiple T2 labs concurrently.
+- Increases the number of players going up to T2 tech in team games due to being more affordable.
 - Adding the techcore building as a target incentivises raiding to take the enemy cores down in order to delay their teching effort.
 
 ------
