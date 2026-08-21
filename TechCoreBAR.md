@@ -4,6 +4,8 @@
 ------
 # README
 
+*The TEHCORE mode is fully tested and finished on Attean's dev branch and only needs to be given greenlight in order to be accessible ingame with the proper setup from the lobby itself.*
+
 Why: 
 - Techcore is a fully complete fix to all of BAR's coop problems in any and all forms.
 - It helps lightly push back the T2 powerspike timewise in team games and allows T1 stage to be just a bit more meaningful, along with more variety of gameplay.
