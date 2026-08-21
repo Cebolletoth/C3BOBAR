@@ -110,7 +110,7 @@ Download links:
 
 # MEDIA
 
-- Gameplay changes:
+- Gameplay changes (costing in photos not up to date - see above):
 
 <img width="508" height="434" alt="image" src="https://github.com/user-attachments/assets/f54659cc-969b-4112-8e5d-db5ee533bf17" />
 
