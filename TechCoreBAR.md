@@ -13,7 +13,7 @@ What and why:
 - It helps lightly push back the T2 powerspike timewise in team games and allows T1 stage to be just a bit more meaningful, along with more variety of gameplay.
 - It reduces the teching cost in 1v1s making it more affordable and therefore increasing the variety of gameplay.
 
-How it does it: 
+How: 
 - By introducing Techcore buildings as a requirement to Increasing and Maintaining the team's techlevel. Losing techcores below the tech threshold will cause losing the ability to place new blueprints.
 - This allows decoupling the teching cost from the T2 lab itself.
 
