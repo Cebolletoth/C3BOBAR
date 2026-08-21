@@ -8,7 +8,7 @@
 
 Feedback to: https://discord.com/channels/549281623154229250/1447223310319489024
 
-Why: 
+What and why: 
 - Techcore is a fully complete fix to all of BAR's coop problems in any and all forms.
 - It helps lightly push back the T2 powerspike timewise in team games and allows T1 stage to be just a bit more meaningful, along with more variety of gameplay.
 - It reduces the teching cost in 1v1s making it more affordable and therefore increasing the variety of gameplay.
