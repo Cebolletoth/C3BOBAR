@@ -65,7 +65,7 @@ The current lack of official dev support limits the access of a number of the an
 - More representation of T2 in 1v1 games.
 - Easier and more smooth teching for lower skill players as they cannot commit to a full T2 building too early in the game before growing their economy in both team game and 1v1.
 - Supporting the E production of the player towards teching efforts.
-- Bridging the metal economy from T1 into early T2.
+- Bridging the metal economy from T1 into early T2 whilst encouraging the player to think how many T1.5 metal extractors to use and where to use them.
 - Decreasing the life/death problems of winning/losing a reclaim field.
 - Lower cost T2 labs making switches between T2 labs easier and increasing the possibility of having multiple T2 labs concurrently.
 - Increases the number of players going up to T2 tech in team games due to being more affordable.
