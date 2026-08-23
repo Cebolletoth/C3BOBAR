@@ -148,4 +148,17 @@ Download links:
 
 
 
+-----
+
+# ATTEAN'S DEV BRANCH MEDIA
+
+<img width="1347" height="699" alt="image" src="https://github.com/user-attachments/assets/8e74aa94-175d-4dc6-8a2a-6bd114d51af8" />
+
+<img width="1316" height="617" alt="image" src="https://github.com/user-attachments/assets/d8b76f3c-1f66-4990-bc23-ddf53ac54c1c" />
+
+<img width="1316" height="553" alt="image" src="https://github.com/user-attachments/assets/6792a9b3-d7c2-466c-bb07-105c79624eb7" />
+
+<img width="1347" height="703" alt="image" src="https://github.com/user-attachments/assets/7c8960c4-f7bd-44da-adbb-4ba9ee4891cd" />
+
+
 
