@@ -76,6 +76,7 @@ The current lack of official dev support limits the access of a number of the an
 - Rewards apm.
 - Taxes apm and player influence across many battle fronts.
 - Encourages own good macro.
+- Heavily discourages mex leaving.
 - Encourages making units as they are needed to impact the frontlines.
 - Encourages safe base layouts.
 - Helps closing long games through apm tax on remaining players with high production.
