@@ -34,7 +34,7 @@ Team size - T2 - T3    THE WIDGET WILL REMIND YOU DURING TESTING - USE IT
 8         - 8  - 12
 ```
 - T1.5 constructor with hovercraft movement
-- T1.5 metal extractors with x3 metal income
+- T1.5 metal extractors with x2.5 metal income
 ------
 
 # NEW STATS
