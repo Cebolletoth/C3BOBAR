@@ -23,8 +23,8 @@ The changes:
 - - *Due to lack of official dev support you have to make a T2constructionturret that costs 1metal next to your completed techcore, this allows creation of T1.5 constructor blueprint if you place it next to it.*
 
 ```
-Team size - T2 - T3  - T2RealTechingcost (400/core) -THE WIDGET WILL REMIND YOU CURRENT NUMBER OF CORES DURING TESTING
-1         - 1  - 2   -   400
+Team size - T2 - T3  - T2RealTechingcost (400/core) -   THE WIDGET WILL REMIND YOU CURRENT NUMBER
+1         - 1  - 2   -   400                             OF CORES DURING TESTING
 2         - 2  - 3   -   800
 3         - 3  - 4   -   1200
 4         - 4  - 6   -   1600
