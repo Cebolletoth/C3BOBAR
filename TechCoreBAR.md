@@ -72,7 +72,7 @@ The current lack of official dev support limits the access of a number of the an
 - Adding the techcore building as a target incentivises raiding to take the enemy cores down in order to delay their teching effort.
 - Avoids instant damage dilution and restoration whilst allowing supporting fallen team mates.
 - Incentives defending your lower OS players and not to wait for their death to take their metal extractors.
-- Increases agency of dedicated air players with transporting and creating techcore building as a target.
+- Increases agency of dedicated air players with transporting units for the team and successfully targeting enemy techcores.
 - Rewards decisive aggressive play rather than afus farm.
 - Rewards apm.
 - Taxes apm and player influence across many battle fronts.
