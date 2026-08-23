@@ -42,6 +42,7 @@ Team size - T2 - T3    THE WIDGET WILL REMIND YOU DURING TESTING - USE IT
 - Techcon: 325M, 5000E, 10000BP, 900health, +20E/s, 200workertime, Hover movement. 
 - Techmex: 450M, 4500E, 8000BP, 1200health, -30E/s, x2.5 metal, land and sea floor placement.
 - Legion changes: Basic mex 0.9metal and +3 energy. Overcharged mex removed.
+- T2 labs: reduced prices starting at 1600 metal.
 
 ------
 # LIMITATIONS
