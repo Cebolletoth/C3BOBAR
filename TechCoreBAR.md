@@ -71,7 +71,7 @@ The current lack of official dev support limits the access of a number of the an
 - Avoids instant damage dilution and restoration whilst allowing supporting fallen team mates
 - Avoids encouraging not defending your lower os players to take over their mexes
 - Increases agency of dedicated air players with transporting and creating techcore building as a target
-- Rewards decisive aggressive play
+- Rewards decisive aggressive play rather than afus farm.
 - Rewards apm
 - Taxes apm and player influence across many battle fronts
 - Encourages own good macro
