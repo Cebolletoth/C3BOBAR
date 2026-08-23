@@ -150,7 +150,7 @@ Download links:
 
 -----
 
-# ATTEAN'S DEV BRANCH - Fully tested and ready
+# ATTEAN'S DEV BRANCH - Fully tested and ready awaiting for admin greenlight...
 
 <img width="1340" height="694" alt="image" src="https://github.com/user-attachments/assets/d2d2a8b8-14f8-4a78-b4a5-7c54a4e4ad8d" />
 
