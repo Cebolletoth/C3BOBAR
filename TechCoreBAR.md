@@ -52,6 +52,7 @@ The current lack of official dev support limits the access of a number of the an
 - Dynamic sharing restictions - I don't have access to this so remember the sharing limitations.
 - Taxed assist - Unable to apply taxes to BP used towards your ally, minimise this during testing, imagine you are getting taxed 60%, you would not be doing it unless it is an emergency.
 - Take restrictions - Unable to handle /take as desired in this mode with a delayed take on economic structures getting taxes through overflow but an immediate transfer of BP, labs and units.
+- Plus other limitations, you get the idea. No official dev support creates gameplay holes, do not abuse them during testing.
 
 ------
 
