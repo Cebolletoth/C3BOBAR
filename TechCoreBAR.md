@@ -71,7 +71,7 @@ The current lack of official dev support limits the access of a number of the an
 - Increases the number of players going up to T2 tech in team games due to being more affordable.
 - Adding the techcore building as a target incentivises raiding to take the enemy cores down in order to delay their teching effort.
 - Avoids instant damage dilution and restoration whilst allowing supporting fallen team mates.
-- Avoids encouraging not defending your lower os players to take over their mexes.
+- Incentives defending your lower OS players and not to wait for their death to take their metal extractors.
 - Increases agency of dedicated air players with transporting and creating techcore building as a target.
 - Rewards decisive aggressive play rather than afus farm.
 - Rewards apm.
