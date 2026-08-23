@@ -57,7 +57,7 @@ The current lack of official dev support limits the access of a number of the an
 
 # GAMEPLAY BENEFITS
 
-- No space left for coop. All doors have been closed. *Chronopolize seal of approval* 
+- No space left for coop. All doors have been closed. *Chronopolize seal of approval.* 
 - Maxed out player agency.
 - More meaningful T1 stage in team games.
 - More representation of T2 in 1v1 games.
@@ -68,17 +68,17 @@ The current lack of official dev support limits the access of a number of the an
 - Lower cost T2 labs making switches between T2 labs easier and increasing the possibility of having multiple T2 labs concurrently.
 - Increases the number of players going up to T2 tech in team games due to being more affordable.
 - Adding the techcore building as a target incentivises raiding to take the enemy cores down in order to delay their teching effort.
-- Avoids instant damage dilution and restoration whilst allowing supporting fallen team mates
-- Avoids encouraging not defending your lower os players to take over their mexes
-- Increases agency of dedicated air players with transporting and creating techcore building as a target
+- Avoids instant damage dilution and restoration whilst allowing supporting fallen team mates.
+- Avoids encouraging not defending your lower os players to take over their mexes.
+- Increases agency of dedicated air players with transporting and creating techcore building as a target.
 - Rewards decisive aggressive play rather than afus farm.
-- Rewards apm
-- Taxes apm and player influence across many battle fronts
-- Encourages own good macro
-- Encourages making units as they are needed to impact the frontlines
-- Encourages safe base layouts
-- Helps closing long games through apm tax on remaining players with high production
-- Avoids multiple players concealing both army funneling and resource funneling into a single lane
+- Rewards apm.
+- Taxes apm and player influence across many battle fronts.
+- Encourages own good macro.
+- Encourages making units as they are needed to impact the frontlines.
+- Encourages safe base layouts.
+- Helps closing long games through apm tax on remaining players with high production.
+- Avoids multiple players concealing both army funneling and resource funneling into a single lane.
 - Works for any number of players and on quantum and pve modes too.
   
 ------
