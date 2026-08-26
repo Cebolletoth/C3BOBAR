@@ -115,10 +115,10 @@ $welcome-message Techcore testing lobby: PLEASE SEE INSTRUCTIONS https://github.
 
 # WIDGET: Techcore testing assistant
 Please download this widget and put it inside your widget folder to assist you during testing.
-Download links:
+Download links: v1.5 Techcorehelper
 
-- External - https://limewire.com/d/5k41v#zLDg32Dku0
-- BAR Discord - https://discord.com/channels/549281623154229250/1539655381721161799
+- External - [https://limewire.com/d/5k41v#zLDg32Dku0](https://limewire.com/d/5BVAK#QWyAiNwe8R)
+- BAR Discord - [https://discord.com/channels/549281623154229250/1539655381721161799](https://discord.com/channels/549281623154229250/1539655381721161799/1542296508349817003)
 
 
 
@@ -145,6 +145,8 @@ Download links:
 <img width="1148" height="1188" alt="image" src="https://github.com/user-attachments/assets/e4a1e8bd-b8cf-4bf9-bbba-156c81972de3" />
 
 <img width="1512" height="1086" alt="image" src="https://github.com/user-attachments/assets/3f2703c7-c4ec-4682-8db1-88f5380602af" />
+
+<img width="851" height="481" alt="image" src="https://github.com/user-attachments/assets/dc6fd4cd-f1a9-40f1-86f3-3a2ea824cfbe" />
 
 
 
