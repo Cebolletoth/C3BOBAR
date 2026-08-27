@@ -66,7 +66,7 @@ Team size - T2 - T3  - T2RealTechingcost (400/core) -   THE WIDGET WILL REMIND Y
 7         - 7  - 10  -   2800
 8         - 8  - 12  -   3200
 ```
-- T1.5 constructor with hovercraft movement.
+- T1.5 constructor with hovercraft movement (made with the 1M t2conturret due to current dev limitations).
 - T1.5 metal extractors with x2.5 metal income.
 ------
 
