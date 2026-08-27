@@ -35,6 +35,8 @@ $welcome-message Techcore testing lobby: PLEASE SEE INSTRUCTIONS https://github.
 ```
 
 <img width="827" height="684" alt="image" src="https://github.com/user-attachments/assets/7657194b-9537-4740-9757-df50cdc44445" />
+<img width="685" height="837" alt="image" src="https://github.com/user-attachments/assets/74af95e3-1df7-4c6f-a58c-a9583442c138" />
+
 
 -----
 ------
