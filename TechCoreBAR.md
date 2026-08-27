@@ -13,7 +13,7 @@ Please download this widget and put it inside your Widget folder to assist you d
 
 Download links: v1.7 Techcorehelper
 
-- External - [[https://limewire.com/d/5k41v#zLDg32Dku0](https://limewire.com/d/5BVAK#QWyAiNwe8R)](https://limewire.com/d/Kvgkm#IvcGNESjIk)
+- External - https://limewire.com/d/dnVDX#iZz9HH21LU
 - BAR Discord - https://discord.com/channels/549281623154229250/1539655381721161799/1542481529052209175
 
 # AUTOLOADER 1.1 (Updated 23/8/2026)
