@@ -7,6 +7,7 @@
 
 # WIDGET: Techcore testing assistant (
 All players must have it in order to avoid breaking the techblocking rules unintentionally.
+
 Please download this widget and put it inside your Widget folder to assist you during testing.
 
 <img width="491" height="40" alt="image" src="https://github.com/user-attachments/assets/d3e12996-c300-45af-bd6d-60ac26a7fd02" />
