@@ -38,7 +38,7 @@ $welcome-message Techcore testing lobby: PLEASE SEE INSTRUCTIONS https://github.
 
 - Your team is required to build and maintain Techcores in order to access higher tier tech labs.
 - Your T1 constructors can build Techcores (and the 1m T2conturret next to it).
-- Transfers: Only T1,T2basic and T1.5 constructors are sharable whilst T2 is active. No other unit transfers.
+- Transfers: Only T1,T2basic and T1.5 constructors are sharable ONLY whilst T2 is active. No other unit transfers.
 - Do not abuse the commie loopholes.
 
 <img width="827" height="684" alt="image" src="https://github.com/user-attachments/assets/7657194b-9537-4740-9757-df50cdc44445" />
