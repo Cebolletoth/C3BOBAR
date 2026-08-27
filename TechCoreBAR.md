@@ -5,7 +5,7 @@
 ------
 # RESOURCES AND SETUP HELP 
 
-# WIDGET: Techcore testing assistant (
+# WIDGET: Techcore testing assistant
 All players must have it in order to avoid breaking the techblocking rules unintentionally.
 
 Please download this widget and put it inside your Widget folder to assist you during testing.
