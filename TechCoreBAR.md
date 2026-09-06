@@ -17,7 +17,7 @@ Download links: v1.7 Techcorehelper
 - External - https://limewire.com/d/dnVDX#iZz9HH21LU
 - BAR Discord - https://discord.com/channels/549281623154229250/1539655381721161799/1542481529052209175
 
-# AUTOLOADER 1.2 (Updated 6/9/2026) ** USE ONLY AFTER DOOD'S UNITS ARE BUILDERS TOOL HAS BEEN MERGED, OTHERWISE USE AL 1.1 **
+# AUTOLOADER 1.2 (Updated 6/9/2026) ** USE ONLY AFTER DOOD'S UNITS ARE BUILDERS TOOL HAS BEEN MERGED, OTHERWISE USE LOADER 1.1 **
 Copy and paste this into the lobby chat to instantly load all the tweaks and lobby settings for testing.
 ------
 
