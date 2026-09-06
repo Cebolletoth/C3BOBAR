@@ -9,7 +9,7 @@ Feedback to: https://discord.com/channels/549281623154229250/1448671751662997536
 # Patch objectives:
 
 All the recommended changes together should:
-- Encourage unit compositions at both t1 and t2.
+- Encourage unit compositions at all tech levels.
 - Bring bot/veh power level a bit closer together.
 - Help restore power level parity between t2 techtrees and factions.
 - Encourage the viability of other factions to undertake the air role.
