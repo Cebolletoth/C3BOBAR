@@ -20,7 +20,8 @@ All the recommended changes together should:
 - Filling in the roster gaps across factions.
 
 ---------
-- - Compatible with Techcore patch. Please see TechCore setup instructions on my other github project. https://github.com/Cebolletoth/C3BOBAR/blob/main/TechCoreBAR.md
+- - Compatible with Techcore patch [Make sure that Forceloadingallunits option is On]. 
+Please see TechCore setup instructions on my other github project. https://github.com/Cebolletoth/C3BOBAR/blob/main/TechCoreBAR.md
 ---------
 ------
 
