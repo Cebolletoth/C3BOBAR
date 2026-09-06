@@ -1,4 +1,4 @@
-# C3BO Balance Patch 1.9.9 (23/8/2026)
+# C3BO Balance Patch 2.0 (6/9/2026)
 
 Hosting site for 5O OS battletested Beyond All Reason balance suggestions to improve gameplay based on real ingame cost-performance per unit category.
 
@@ -25,9 +25,9 @@ All the recommended changes together should:
 ------
 
 # BALANCE TWEAKUNITS AND TWEAKDEFS (Building Armordef)
-AUTOLOADER 1.9.9
+AUTOLOADER 2.0
 ```
-!welcome-message C3BOPATCH v1.9.9 Changelog link - https://github.com/Cebolletoth/C3BOBAR/edit/main/C3BO%20Balance%20Patch.md   Feedback link - https://discord.com/channels/549281623154229250/1448671751662997536
+!welcome-message C3BOPATCH v2.0 Changelog link - https://github.com/Cebolletoth/C3BOBAR/edit/main/C3BO%20Balance%20Patch.md   Feedback link - https://discord.com/channels/549281623154229250/1448671751662997536
 !bSet experimentallegionfaction 1
 !bSet ranked_game 0
 !bSet allowpausegameplay 0
@@ -52,7 +52,7 @@ AUTOLOADER 1.9.9
 
 
 ------
-# Balance changes
+# Balance changes v2.0
 
 ```
 
@@ -757,7 +757,7 @@ Comdrop nerf
 Economy T1
 Legion metal extractor (legmex) - extractsmetal 0.0009 (0.008) energyupkeep -3 (-7)
 Legion overcharged mex buildoption has been removed from all constructors (Reintroduced to all factions under Techcore Patch)..
-Legion fabricator (special BP t1 mex - Omex substitute) 
+[Unit roster addition - Legion] Legion fabricator (special BP t1 mex - Omex substitute) 
 	- Metalcost 150
 	- Energycost 1700
 	- Buildtime 3600
@@ -771,7 +771,7 @@ Asolars (armadvsol coradvsol) - energymake 80 (75) - (legadvsol) - energycost 50
 Arm solar (armadvsol) - metalcost 355 (350) energycost 4600 (5000)
 
 Economy T2
-Armada T2cons New Buildoption - Shockwave (death doesn't cause emp area - self detonation produces emp area)
+[Unit roster addition - Armada] Shockwave (T2 special amex with EMP weapon) death doesn't cause emp area - self detonation produces emp area
 Advanced metal extractor Armada (armmoho armuwmme) health 3800 (2800)
 Fusion reactors have been restored to pre S3 patch Metalcosts and Eproduction (different from S2 - cost more E and BP and lower HP as per S3).
 Arm fusion - metalcost 4300 (3350) Eproduction 1000 (750)
