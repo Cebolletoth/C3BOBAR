@@ -30,7 +30,7 @@ Please see TechCore setup instructions on my other github project. https://githu
 # BALANCE TWEAKUNITS AND TWEAKDEFS (Building Armordef)
 AUTOLOADER 2.0
 ```
-!welcome-message C3BOPATCH v2.0 Changelog link - https://github.com/Cebolletoth/C3BOBAR/edit/main/C3BO%20Balance%20Patch.md   Feedback link - https://discord.com/channels/549281623154229250/1448671751662997536
+!welcome-message C3BOPATCH v2.0 Changelog link - https://github.com/Cebolletoth/C3BOBAR/edit/main/C3BO%20Balance%20Patch.md
 !bSet experimentallegionfaction 1
 !bSet ranked_game 0
 !bSet allowpausegameplay 0
