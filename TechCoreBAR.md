@@ -13,7 +13,7 @@ Please download this widget and put it inside your Widget folder to assist you d
 <img width="491" height="40" alt="image" src="https://github.com/user-attachments/assets/d3e12996-c300-45af-bd6d-60ac26a7fd02" />
 
 Download links: v1.7 Techcorehelper
-- External link - https://file.kiwi/4bb94b99#3cyn96bYXf5R07Y8r-fSDQ
+
 - BAR Discord - https://discord.com/channels/549281623154229250/1539655381721161799/1542481529052209175
 
 # AUTOLOADER 1.2 (Updated 6/9/2026) ** USE ONLY AFTER DOOD'S UNITS ARE BUILDERS TOOL HAS BEEN MERGED, OTHERWISE USE LOADER 1.1 **
