@@ -25,6 +25,7 @@ $welcome-message Techcore testing lobby: PLEASE SEE INSTRUCTIONS https://github.
 !bSet ranked_game 0
 !bSet allowpausegameplay 0
 !bSet allowunitcontrolwidgets 0
+!bSet easytax 1
 !bSet tax_resource_sharing_amount 0.6
 !bSet forceallunits 1
 !bSet experimentallegionfaction 1
@@ -43,6 +44,7 @@ $welcome-message Techcore testing lobby: PLEASE SEE INSTRUCTIONS https://github.
 !bSet ranked_game 0
 !bSet allowpausegameplay 0
 !bSet allowunitcontrolwidgets 0
+!bSet easytax 1
 !bSet tax_resource_sharing_amount 0.6
 !bSet forceallunits 1
 !bSet experimentallegionfaction 1
