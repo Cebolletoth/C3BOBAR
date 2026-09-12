@@ -6,6 +6,11 @@
 # RESOURCES AND SETUP HELP 
 
 # WIDGET: Techcore testing assistant
+
+Download links: v2.0 Techcorehelper
+
+- BAR Discord - [https://discord.com/channels/549281623154229250/1539655381721161799/1542481529052209175](https://discord.com/channels/549281623154229250/1447223310319489024/1547745731669008404)
+
 All players must have it in order to avoid breaking the techblocking rules unintentionally.
 
 Please download this widget and put it inside your Widget folder to assist you during testing.
@@ -15,9 +20,7 @@ You can find the folder directly by opening it through the Plugin section of the
 
 <img width="491" height="40" alt="image" src="https://github.com/user-attachments/assets/d3e12996-c300-45af-bd6d-60ac26a7fd02" />
 
-Download links: v2.0 Techcorehelper
 
-- BAR Discord - [https://discord.com/channels/549281623154229250/1539655381721161799/1542481529052209175](https://discord.com/channels/549281623154229250/1447223310319489024/1547745731669008404)
 
 # AUTOLOADER 1.2 (Updated 6/9/2026) ** USE ONLY AFTER DOOD'S UNITS ARE BUILDERS TOOL HAS BEEN MERGED, OTHERWISE USE LOADER 1.1 **
 Copy and paste this into the lobby chat to instantly load all the tweaks and lobby settings for testing.
