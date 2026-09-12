@@ -61,7 +61,6 @@ $welcome-message Techcore testing lobby: PLEASE SEE INSTRUCTIONS https://github.
 - Your team is required to build and maintain Techcores in order to access higher tier tech labs.
 - Your T1 constructors can build Techcores (and the 1m T2conturret next to it).
 - Transfers: Only T1,T2basic and T1.5 constructors are sharable ONLY whilst T2 is active. No other unit transfers.
-- Do not abuse the commie loopholes.
 
 <img width="827" height="684" alt="image" src="https://github.com/user-attachments/assets/7657194b-9537-4740-9757-df50cdc44445" />
 <img width="685" height="837" alt="image" src="https://github.com/user-attachments/assets/74af95e3-1df7-4c6f-a58c-a9583442c138" />
@@ -115,11 +114,11 @@ Team size - T2 - T3  - T2RealTechingcost (400/core) -   THE WIDGET WILL REMIND Y
 # LIMITATIONS
 
 The current lack of official dev support limits the access of a number of the anticoop measures:
-- Techblocking - I have no way of creating dynamic restrictions on blueprint availability.
+- Techblocking - I have no way of creating dynamic restrictions on blueprint availability. [Covered by using the widget]
 - Dynamic taxes on overflow and direct transfers - I don't have access to different tax levels changing with the team's techlevel.
-- Dynamic sharing restictions - I don't have access to this so remember the sharing limitations.
-- Taxed assist - Unable to apply taxes to BP used towards your ally, minimise this during testing, imagine you are getting taxed 60%, you would not be doing it unless it is an emergency.
-- Take restrictions - Unable to handle /take as desired in this mode with a delayed take on economic structures getting taxes through overflow but an immediate transfer of BP, labs and units.
+- Dynamic sharing restictions - I don't have access to this so remember the sharing limitations. [Covered by using the widget]
+- Taxed assist - Unable to apply taxes to BP used towards your ally, minimise this during testing, imagine you are getting taxed 60%, you would not be doing it unless it is an emergency. [Covered by using Easytax until Sharingtab is merged]
+- Take restrictions - Unable to handle /take as desired in this mode with a delayed take on economic structures getting taxes through overflow but an immediate transfer of BP, labs and units. [Covered by using Easytax until the better handling system Techcore has in Sharingtab is merged]
 - Plus other limitations, you get the idea. No official dev support creates gameplay holes, do not abuse them during testing.
 
 ------
