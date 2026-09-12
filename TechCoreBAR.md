@@ -25,6 +25,7 @@ Copy and paste this into the lobby chat to instantly load all the tweaks and lob
 
 ```
 $welcome-message Techcore testing lobby: PLEASE SEE INSTRUCTIONS https://github.com/Cebolletoth/C3BOBAR/blob/main/TechCoreBAR.md
+!rename ------>TECHCORE games
 !bSet ranked_game 0
 !bSet allowpausegameplay 0
 !bSet allowunitcontrolwidgets 0
@@ -44,6 +45,7 @@ Copy and paste this into the lobby chat to instantly load all the tweaks and lob
 
 ```
 $welcome-message Techcore testing lobby: PLEASE SEE INSTRUCTIONS https://github.com/Cebolletoth/C3BOBAR/blob/main/TechCoreBAR.md
+!rename ------>TECHCORE games
 !bSet ranked_game 0
 !bSet allowpausegameplay 0
 !bSet allowunitcontrolwidgets 0
