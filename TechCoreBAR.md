@@ -9,6 +9,9 @@
 All players must have it in order to avoid breaking the techblocking rules unintentionally.
 
 Please download this widget and put it inside your Widget folder to assist you during testing.
+You can find the folder directly by opening it through the Plugin section of the BAR menu.
+
+<img width="1006" height="212" alt="image" src="https://github.com/user-attachments/assets/e2d0cca7-3e58-4aab-b5eb-1512a2f0bb62" />
 
 <img width="491" height="40" alt="image" src="https://github.com/user-attachments/assets/d3e12996-c300-45af-bd6d-60ac26a7fd02" />
 
