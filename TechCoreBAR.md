@@ -9,7 +9,7 @@
 
 Download links: v2.0 Techcorehelper
 
-DOWNLOAD- BAR Discord - [https://discord.com/channels/549281623154229250/1539655381721161799/1542481529052209175](https://discord.com/channels/549281623154229250/1447223310319489024/1547745731669008404)
+DOWNLOAD - BARDiscordLink - [https://discord.com/channels/549281623154229250/1539655381721161799/1542481529052209175](https://discord.com/channels/549281623154229250/1447223310319489024/1547745731669008404)
 
 All players must have it in order to avoid breaking the techblocking rules unintentionally.
 
