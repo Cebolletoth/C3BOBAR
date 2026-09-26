@@ -8,7 +8,7 @@
 # WIDGET: Techcore testing assistant
 
 Step 1 Download links: v2.0 Techcorehelper
-DOWNLOAD - BARDiscordLink - [https://discord.com/channels/549281623154229250/1539655381721161799/1542481529052209175](https://discord.com/channels/549281623154229250/1447223310319489024/1547745731669008404)
+DOWNLOAD - https://mega.nz/file/GMMDnLyS#uirfUqYdttsxOkeJiMuzIb1-S5nzkXYze30XqE0PbLY
 
 Step 2 Place it on your widget folder
 You can find the folder directly by opening it through the Plugin section of the BAR menu.
@@ -18,6 +18,8 @@ You can find the folder directly by opening it through the Plugin section of the
 
 Step 3 Copypaste the tweakbundle into your lobby chat
 Step 4 Play Techcore
+
+Feedback - [[https://discord.com/channels/549281623154229250/1539655381721161799/1542481529052209175](https://discord.com/channels/549281623154229250/1447223310319489024/1547745731669008404)](https://discord.com/channels/549281623154229250/1447223310319489024)
 
 # AUTOLOADER 1.2 (Updated 6/9/2026) ** USE ONLY AFTER DOOD'S UNITS ARE BUILDERS TOOL HAS BEEN MERGED, OTHERWISE USE LOADER 1.1 **
 Copy and paste this into the lobby chat to instantly load all the tweaks and lobby settings for testing.
