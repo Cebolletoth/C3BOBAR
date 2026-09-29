@@ -28,7 +28,7 @@ Please see TechCore setup instructions on my other github project. https://githu
 ------
 
 # BALANCE TWEAKUNITS AND TWEAKDEFS (Building Armordef)
-AUTOLOADER 2.0
+# AUTOLOADER 2.0
 ```
 !welcome-message C3BOPATCH v2.0 Changelog link - https://github.com/Cebolletoth/C3BOBAR/edit/main/C3BO%20Balance%20Patch.md
 !bSet experimentallegionfaction 1
