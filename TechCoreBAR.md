@@ -7,8 +7,8 @@
 
 # WIDGET: Techcore testing assistant
 
-Step 1 Download links: v2.2 Techcorehelper
-DOWNLOAD - [https://mega.nz/file/GMMDnLyS#uirfUqYdttsxOkeJiMuzIb1-S5nzkXYze30XqE0PbLY](https://mega.nz/file/iFEylTYJ#RzYdwG8JUI1auLsL_VIT4XiYuEh-G3zTL9ChRVJBDZ8)
+Step 1 Download links: v2.4 Techcorehelper (+ audio notifications)
+DOWNLOAD - [https://mega.nz/file/aJ8TAArb#lodrPZjqovlbtVv3-4kl_ymcjp_5fCsgcBsres-s3xw)
 
 Step 2 Place it on your widget folder
 You can find the folder directly by opening it through the Plugin section of the BAR menu.
@@ -165,6 +165,8 @@ The current lack of official dev support limits the access of a number of the an
 <img width="1415" height="1046" alt="image" src="https://github.com/user-attachments/assets/116e8515-4ef1-4541-8282-9c8317fd5072" />
 
 <img width="553" height="55" alt="image" src="https://github.com/user-attachments/assets/d3007c5f-34f3-44a6-82b1-33e3be147639" />
+
+<img width="669" height="517" alt="image" src="https://github.com/user-attachments/assets/7b7549b6-4840-4acd-b8cc-16f3b20f8b72" />
 
 
 -----
