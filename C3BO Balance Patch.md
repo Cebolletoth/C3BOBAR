@@ -58,7 +58,7 @@ Please see TechCore setup instructions on my other github project. https://githu
 
 ------
 # Balance changes v2.1
-
+Scroll to bottom of page for latest unit changes
 ```
 
 Unit (github name) - change (IG reference)     NC = no change  N = new attribute
