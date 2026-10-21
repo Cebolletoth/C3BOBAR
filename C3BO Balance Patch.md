@@ -1,4 +1,4 @@
-# C3BO Balance Patch 2.1 (6/9/2026)
+# C3BO Balance Patch 2.2 (6/9/2026)
 
 Hosting site for 5O OS battletested Beyond All Reason balance suggestions to improve gameplay based on real ingame cost-performance per unit category.
 
@@ -28,7 +28,7 @@ Please see TechCore setup instructions on my other github project. https://githu
 ------
 
 # BALANCE TWEAKUNITS AND TWEAKDEFS (Building Armordef)
-# AUTOLOADER 2.1
+# AUTOLOADER 2.2
 ```
 !welcome-message C3BOPATCH v2.0 Changelog link - https://github.com/Cebolletoth/C3BOBAR/edit/main/C3BO%20Balance%20Patch.md
 !bSet experimentallegionfaction 1
@@ -57,7 +57,7 @@ Please see TechCore setup instructions on my other github project. https://githu
 
 
 ------
-# Balance changes v2.1.2
+# Balance changes v2.2
 Scroll to bottom of page for latest unit changes
 ```
 
@@ -859,7 +859,7 @@ Myrmidon - Health from (9200) to 8500, [aa weapon removed], [drone] range from (
 
 
 
-2.1.2 (Tweaks: 5, 6, 7losael, 8losael)
+2.2 (Tweaks: 5, 6, 7TC, 8TC)
 
 Argonaut - Paralyzemultiplier 1 (0.5)
 Telchine -
