@@ -2,7 +2,7 @@
 
 
 
-------
+
 # RESOURCES AND SETUP HELP 
 
 # WIDGET: Techcore testing assistant
@@ -27,8 +27,8 @@ Feedback - [[https://discord.com/channels/549281623154229250/1539655381721161799
 https://apm.bar/tournament/C3BO 
 Copy the tweak code from the website above and paste directly onto the lobby chat itself.
 
-```
-------
+
+
 # HOW TO PLAY
 
 - Your team is required to build and maintain Techcores in order to access higher tier tech labs.
@@ -40,8 +40,8 @@ Copy the tweak code from the website above and paste directly onto the lobby cha
 <img width="685" height="837" alt="image" src="https://github.com/user-attachments/assets/74af95e3-1df7-4c6f-a58c-a9583442c138" />
 
 
------
-------
+
+
 # README 1.1
 
 *The TECHCORE mode is fully tested and finished on Attean's dev branch and only needs to be given greenlight in order to be accessible ingame with the proper setup from the lobby itself. Public support in the Coop is a problem thread is required in order to help convince the responsible people in power. https://discord.com/channels/549281623154229250/1337861239526785064*
@@ -70,7 +70,7 @@ Team size - T2 - T3  -
 ```
 - T1.5 constructor with hovercraft movement (made with the 1M t2conturret due to current dev limitations).
 - T1.5 metal extractors with x2.5 metal income.
-------
+
 
 # NEW STATS
 - Techcore: 850M, 9000E, 12000BP, 2000health, +100E/s, 100workertime (in 150 shield range), fusionexplosion, land and sea surface placement. Shield 400, regen 20, cost 150e/s.
@@ -79,7 +79,7 @@ Team size - T2 - T3  -
 - Legion changes: Basic mex 0.9metal and +3 energy. Overcharged mex removed.
 - T2 labs: reduced prices starting at 1600 metal.
 
-------
+
 # LIMITATIONS
 
 The current lack of official dev support limits the access of a number of the anticoop measures:
@@ -90,7 +90,7 @@ The current lack of official dev support limits the access of a number of the an
 - Take restrictions - Unable to handle /take as desired in this mode with a delayed take on economic structures getting taxes through overflow but an immediate transfer of BP, labs and units. [Covered by using Easytax until the better handling system Techcore has in Sharingtab is merged]
 - Plus other limitations, you get the idea. No official dev support creates gameplay holes, do not abuse them during testing.
 
-------
+
 
 # GAMEPLAY BENEFITS
 
@@ -120,8 +120,7 @@ The current lack of official dev support limits the access of a number of the an
 - Works for any number of players and on quantum and pve modes too.
 - Allows restoring allied players back into the game after suffering damage without using unit sharing.
   
-------
-------
+
 
 # MEDIA
 
@@ -152,7 +151,7 @@ The current lack of official dev support limits the access of a number of the an
 <img width="669" height="517" alt="image" src="https://github.com/user-attachments/assets/7b7549b6-4840-4acd-b8cc-16f3b20f8b72" />
 
 
------
+
 
 # ATTEAN'S DEV BRANCH - Fully tested and ready awaiting for admin greenlight...
 
