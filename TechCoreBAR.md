@@ -32,7 +32,7 @@ Copy the tweak code from the website above and paste directly onto the lobby cha
 # HOW TO PLAY
 
 - Your team is required to build and maintain Techcores in order to access higher tier tech labs.
-- Your T1 constructors can build Techcores (and the 1m T2conturret next to it).
+- Your T1 constructors can build Techcores.
 - Transfers: Only T1,T2basic and T1.5 constructors are sharable ONLY whilst T2 is active. No other unit transfers.
 
 <img width="827" height="684" alt="image" src="https://github.com/user-attachments/assets/7657194b-9537-4740-9757-df50cdc44445" />
@@ -124,7 +124,7 @@ The current lack of official dev support limits the access of a number of the an
 
 # MEDIA
 
-- Gameplay changes (costing in photos not up to date - see above):
+- Gameplay changes (costing in photos not up to date - current setup does not require the use of the additional construction turret):
 
 <img width="508" height="434" alt="image" src="https://github.com/user-attachments/assets/f54659cc-969b-4112-8e5d-db5ee533bf17" />
 
