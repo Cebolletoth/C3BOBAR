@@ -7,8 +7,8 @@
 
 # WIDGET: Techcore testing assistant
 
-Step 1 Download links: v2.4 Techcorehelper (+ audio notifications)
-DOWNLOAD - [https://mega.nz/file/aJ8TAArb#lodrPZjqovlbtVv3-4kl_ymcjp_5fCsgcBsres-s3xw)
+Step 1 Download links: v4 Techcorehelper (+ audio notifications)
+DOWNLOAD - Awaiting for the updated widget to be completed
 
 Step 2 Place it on your widget folder
 You can find the folder directly by opening it through the Plugin section of the BAR menu.
